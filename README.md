@@ -171,7 +171,7 @@ No.      | ESP32-S3-MINI-1 Pin | Description
       26 |       GPIO13        | BOOST_EN: High level to enable Boost boost circuit.
 ```
 
-<img src="https://github.com/MGZ-LLC/esp32_s3_usb_otg_additions/blob/main/Documentation_Screenshot_20220404.jpg?raw=true" alt="Screenshot of ESP32-S3-USB-OTG documentation"/>
+<img src="https://github.com/MGZ-LLC/esp32_s3_usb_otg_additions/blob/main/Documentation_Screenshot_20220404.jpg?raw=true" alt="Screenshot of ESP32-S3-USB-OTG documentation" width=50% height=50%>
 
 The text underlined in red is what made it seem that the current limiting IC is something that can be enabled if current limiting is required for the use case.
 
