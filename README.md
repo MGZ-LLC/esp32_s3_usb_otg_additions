@@ -154,7 +154,7 @@ Note that to synchronise these git submodules you need to run `git submodule upd
 
 Include the new file
 
-`#include "esp32_s3_usb_otg_additions.h"`
+`#include "usb_otg_esp32_s3_additions.h"`
 
 Call the function
 
@@ -180,6 +180,6 @@ But the text underlined in green and the schematic show that the IC needs to be 
 
 File hosted on Github:
 
-- [esp32_s3_usb_otg_additions.h](https://github.com/MGZ-LLC/esp32_s3_usb_otg_additions/blob/main/usb_otg_esp32_s3_additions.h)
+- [usb_otg_esp32_s3_additions.h](https://github.com/MGZ-LLC/esp32_s3_usb_otg_additions/blob/main/usb_otg_esp32_s3_additions.h)
 
-- [esp32_s3_usb_otg_additions.h [raw]](https://raw.githubusercontent.com/MGZ-LLC/esp32_s3_usb_otg_additions/main/usb_otg_esp32_s3_additions.h)
+- [usb_otg_esp32_s3_additions.h [raw]](https://raw.githubusercontent.com/MGZ-LLC/esp32_s3_usb_otg_additions/main/usb_otg_esp32_s3_additions.h)
